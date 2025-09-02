@@ -1,4 +1,4 @@
-variable "aws_vpc_name" {
+variable "name" {
   type        = string
   description = "VPC Name tag"
 }
